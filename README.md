@@ -13,10 +13,10 @@ ChatBot ini memanfaatkan teknologi Google Gemini AI untuk menghadirkan percakapa
 
 ## Struktur Direktori
 
-'''bash
+```bash
 ChatBot/
 │
 ├── chatbot.py      # Logika utama bot & alur percakapan  
 ├── config.py       # Pengaturan API, token, dan variabel konfigurasi  
 └── …               # File tambahan (jika ada: util, modul, dsb)
-'''
+```
