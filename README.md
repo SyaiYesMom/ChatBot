@@ -20,3 +20,13 @@ ChatBot/
 ├── config.py       # Pengaturan API, token, dan variabel konfigurasi  
 └── …               # File tambahan (jika ada: util, modul, dsb)
 ```
+
+## Prasyarat
+
+Sebelum memulai, pastikan kamu sudah:
+```bash
+- Memiliki token Telegram Bot dari BotFather
+- Memiliki akses API / kredensial untuk Google Gemini
+- Instal Python (versi minimal, misalnya 3.8+)
+- Internet aktif dan akses ke endpoint API Gemini & Telegram
+```
