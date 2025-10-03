@@ -10,3 +10,13 @@ ChatBot ini memanfaatkan teknologi Google Gemini AI untuk menghadirkan percakapa
 🔧 Mudah dikustomisasi & diperluas — kamu bisa menambahkan fungsionalitas sesuai kebutuhan
 
 💡 Multi-peran — bisa dipakai sebagai asisten pribadi, dukungan pelanggan, edukasi, dsb
+
+## Struktur Direktori
+
+'''bash
+ChatBot/
+│
+├── chatbot.py      # Logika utama bot & alur percakapan  
+├── config.py       # Pengaturan API, token, dan variabel konfigurasi  
+└── …               # File tambahan (jika ada: util, modul, dsb)
+'''
