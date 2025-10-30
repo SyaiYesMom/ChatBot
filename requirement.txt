@@ -1,0 +1,3 @@
+python-telegram-bot
+# Model generatif Google Gemini
+google-generativeai
