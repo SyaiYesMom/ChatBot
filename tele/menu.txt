@@ -1,0 +1,7 @@
+  ⤷ Kirim pesan apapun untuk memulai Chat Ai
+ ⤷ Kirim voice chat apapun untuk memulai Chat Ai
+ ⤷ Kirim Gambar apapun untuk bertanya atau memulai Chat Ai
+ ⤷ /wiki [pertanyaan] — search wiki sesuai key
+ ⤷ /cuaca [kota] — cuaca saat ini
+ ⤷ /ramalan [kota] [hari] — ramalan cuaca
+ ⤷ /astronomi [kota] — data astronomi
