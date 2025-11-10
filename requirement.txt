@@ -1,3 +1,11 @@
-python-telegram-bot
+# Library untuk Telegram Bot API
+python-telegram-bot>=20.0
+
 # Model generatif Google Gemini
-google-generativeai
+google-generativeai>=0.3.0
+
+# HTTP library untuk async requests ke WeatherAPI (lebih sederhana seperti requests)
+httpx>=0.25.0
+
+# Library untuk Wikipedia API
+wikipedia>=1.4.0
